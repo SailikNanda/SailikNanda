@@ -8,6 +8,10 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="50"/>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=3&width=800" />
 
 </div>
