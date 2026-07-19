@@ -81,7 +81,7 @@ A long-term flagship project: a Jarvis-inspired assistant with a holographic cor
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/output/github-contribution-grid-snake-dark.svg?v=2" />
+<img src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/output/github-contribution-grid-snake-dark.svg?v=3" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
