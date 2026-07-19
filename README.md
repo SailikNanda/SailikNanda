@@ -16,8 +16,6 @@
 
 ### 🧠 About Me
 
-<img align="right" width="260" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,100:2C5364&height=180&section=header&text=%F0%9F%A4%96&fontSize=70" />
-
 - 🎓 B.Tech student (MAKAUT) — CSE/IT coursework
 - 🤖 Building **ERA** — a personal Jarvis-style AI assistant with a holographic glassmorphism UI
 - 🧪 Fine-tuning custom LLMs (QLoRA + Unsloth) on free Kaggle GPUs
@@ -25,9 +23,7 @@
 - 🌱 Currently exploring: local inference with Ollama, multi-provider free-tier AI routing
 - 📍 Based in West Bengal, India
 
-<br clear="right"/>
-
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=3&width=800" />
 
 ### 🚀 Featured Project
 
