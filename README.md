@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi,%20I'm%20Sailik%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Student%20%7C%20AI%20Builder%20%7C%20Exploring%20LLMs&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF512F&height=220&section=header&text=Hi,%20I'm%20Sailik%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Student%20%7C%20AI%20Builder%20%7C%20Exploring%20LLMs&descAlignY=58&descSize=16" />
 
 <a href="https://github.com/SailikNanda">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=36D1DC&center=true&vCenter=true&width=650&lines=Building+ERA+%E2%80%94+a+Jarvis-style+AI+Assistant;Fine-tuning+LLMs+with+QLoRA+on+free+Kaggle+GPUs;Exploring+voice-agentic+coding+%2B+local+inference;Python+%7C+AI%2FML+%7C+Automation" />
@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=3&width=800" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
 
 </div>
 
@@ -27,7 +27,7 @@
 - 🌱 Currently exploring: local inference with Ollama, multi-provider free-tier AI routing
 - 📍 Based in West Bengal, India
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=3&width=800" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
 
 ### 🚀 Featured Project
 
@@ -47,7 +47,7 @@ A long-term flagship project: a Jarvis-inspired assistant with a holographic cor
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=3&width=800" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
 
 ### 🛠️ Tech Stack
 
@@ -55,7 +55,7 @@ A long-term flagship project: a Jarvis-inspired assistant with a holographic cor
 <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,linux,vscode,html,js,react,nodejs,cloudflare,docker&theme=dark" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=3&width=800" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
 
 ### 🔥 Currently Exploring
 
@@ -68,7 +68,7 @@ A long-term flagship project: a Jarvis-inspired assistant with a holographic cor
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=3&width=800" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
 
 ### 📈 GitHub Streak
 
@@ -76,7 +76,7 @@ A long-term flagship project: a Jarvis-inspired assistant with a holographic cor
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SailikNanda&theme=radical&hide_border=true&background=0F2027&ring=36D1DC&fire=5B86E5" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=3&width=800" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
 
 ### 🐍 Contribution Snake
 
@@ -84,7 +84,7 @@ A long-term flagship project: a Jarvis-inspired assistant with a holographic cor
 <img src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36D1DC,100:5B86E5&height=3&width=800" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
 
 ### 🔗 Connect with me
 
@@ -100,4 +100,4 @@ A long-term flagship project: a Jarvis-inspired assistant with a holographic cor
 <img src="https://komarev.com/ghpvc/?username=SailikNanda&label=Profile%20Views&color=36D1DC&style=flat" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,25:5B86E5,50:36D1DC,75:F09819,100:FF512F&height=120&section=footer" />
