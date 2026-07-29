@@ -21,10 +21,8 @@
 ### 🧠 About Me
 
 - 🎓 B.Tech student (MAKAUT) — CSE/IT coursework
-- 🤖 Building **ERA** — a personal Jarvis-style AI assistant with a holographic glassmorphism UI
-- 🧪 Fine-tuning custom LLMs (QLoRA + Unsloth) on free Kaggle GPUs
-- 🎙️ Working on voice-controlled agentic coding (Whisper STT + Edge-TTS)
-- 🌱 Currently exploring: local inference with Ollama, multi-provider free-tier AI routing
+- 🤖 Building **ERA** — a personal AI Agent
+- 🌱 Currently exploring: AI Models, AI Configuration
 - 📍 Based in West Bengal, India
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
@@ -35,9 +33,9 @@
 <tr>
 <td width="100%">
 
-**ERA — Personal AI Assistant**
+**ERA — Personal AI Agent**
 
-A long-term flagship project: a Jarvis-inspired assistant with a holographic core-orb UI, voice interaction, agentic task execution (email, docs, PPT generation, object detection), and a custom fine-tuned model (Era-B1, built on Llama 3.1 8B via QLoRA).
+A long-term flagship project: a Jarvis-inspired Agent with voice interaction, agentic task execution (email, docs, PPT generation, object detection).
 
 ![Status](https://img.shields.io/badge/status-active-36D1DC?style=for-the-badge)
 ![Type](https://img.shields.io/badge/type-AI%20Assistant-5B86E5?style=for-the-badge)
