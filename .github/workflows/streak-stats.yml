@@ -1,0 +1,60 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate streak stats (dark)
+        uses: be-next/github-streak-stats-action@v1
+        with:
+          username: SailikNanda
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: assets/streak-dark.svg
+          background: "0A101F"
+          stroke: "22314d"
+          ring: "F09819"
+          fire: "FF512F"
+          currStreakNum: "c9d6e8"
+          sideNums: "c9d6e8"
+          currStreakLabel: "36D1DC"
+          sideLabels: "c9d6e8"
+          dates: "5b6b85"
+          hide-border: true
+
+      - name: Generate streak stats (light)
+        uses: be-next/github-streak-stats-action@v1
+        with:
+          username: SailikNanda
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: assets/streak-light.svg
+          background: "F3F5FA"
+          stroke: "d7deee"
+          ring: "F09819"
+          fire: "FF512F"
+          currStreakNum: "33394a"
+          sideNums: "33394a"
+          currStreakLabel: "0891B2"
+          sideLabels: "33394a"
+          dates: "7c8496"
+          hide-border: true
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add assets/streak-dark.svg assets/streak-light.svg
+          git commit -m "Update streak stats" || exit 0
+          git push
