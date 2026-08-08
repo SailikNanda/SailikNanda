@@ -66,7 +66,11 @@ A long-term flagship project: a Jarvis-inspired Agent with voice interaction, ag
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=SailikNanda&theme=dark&hide_border=true&background=0A101F&ring=F09819&fire=FF512F&currStreakLabel=36D1DC&sideNums=c9d6e8&sideLabels=c9d6e8&dates=5b6b85&stroke=22314d" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/streak-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/streak-light.svg" />
+  <img alt="GitHub streak stats" src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/streak-dark.svg" width="100%" />
+</picture>
 
 <br/>
 
