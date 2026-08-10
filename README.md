@@ -12,16 +12,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
 
-### 🧠 About Me
+### <img width="22" height="22" src="https://api.iconify.design/lucide:brain.svg?color=%2336D1DC" valign="middle"/> About Me
 
-- 🎓 B.Tech student (MAKAUT) — CSE/IT coursework
-- 🤖 Building **ERA** — a personal AI Agent
-- 🌱 Currently exploring: AI Models, AI Configuration
-- 📍 Based in West Bengal, India
+- <img width="16" height="16" src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2336D1DC" valign="middle"/> B.Tech student (MAKAUT) — IT coursework
+- <img width="16" height="16" src="https://api.iconify.design/lucide:bot.svg?color=%2336D1DC" valign="middle"/> Building **ERA** — a personal AI Agent
+- <img width="16" height="16" src="https://api.iconify.design/lucide:sprout.svg?color=%2336D1DC" valign="middle"/> Currently exploring: AI Models, AI Configuration
+- <img width="16" height="16" src="https://api.iconify.design/lucide:map-pin.svg?color=%2336D1DC" valign="middle"/> Based in West Bengal, India
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
 
-### 🚀 Featured Project
+### <img width="22" height="22" src="https://api.iconify.design/lucide:rocket.svg?color=%2336D1DC" valign="middle"/> Featured Project
 
 <table>
 <tr>
@@ -29,11 +29,11 @@
 
 **ERA — Personal AI Agent**
 
-A long-term flagship project: a Jarvis-inspired Agent with voice interaction, agentic task execution (email, docs, PPT generation, object detection and so on.).
+A long-term flagship project: a Jarvis-inspired AI Agent with voice interaction, agentic task execution, and a creative ecosystem of tools — email, docs, PPT generation, image generation, object detection, and more.
 
 ![Status](https://img.shields.io/badge/status-active-36D1DC?style=for-the-badge)
-![Type](https://img.shields.io/badge/type-AI%20Assistant-5B86E5?style=for-the-badge)
-![Stack](https://img.shields.io/badge/stack-Python%20%7C%20LLMs%20%7C%20Voice-0F2027?style=for-the-badge)
+![Type](https://img.shields.io/badge/type-AI%20Agent-5B86E5?style=for-the-badge)
+![Stack](https://img.shields.io/badge/stack-Node.js%20%7C%20Electron%20%7C%20TypeScript%20%7C%20LLM%20%7C%20Voice-0F2027?style=for-the-badge)
 
 </td>
 </tr>
@@ -41,7 +41,7 @@ A long-term flagship project: a Jarvis-inspired Agent with voice interaction, ag
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
 
-### 🛠️ Tech Stack
+### <img width="22" height="22" src="https://api.iconify.design/lucide:cpu.svg?color=%2336D1DC" valign="middle"/> Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,linux,vscode,html,js,react,nodejs,cloudflare,docker&theme=dark" />
@@ -49,20 +49,19 @@ A long-term flagship project: a Jarvis-inspired Agent with voice interaction, ag
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
 
-### 🔥 Currently Exploring
+### <img width="22" height="22" src="https://api.iconify.design/lucide:flame.svg?color=%2336D1DC" valign="middle"/> Currently Exploring
 
 <div align="center">
 
-![LLM Architecture](https://img.shields.io/badge/-LLM%20Fine--tuning-1a1a2e?style=for-the-badge&logo=meta&logoColor=white)
-![AIML](https://img.shields.io/badge/-QLoRA%20%2F%20Unsloth-1a1a2e?style=for-the-badge)
-![NLP](https://img.shields.io/badge/-Kaggle%20GPU-1a1a2e?style=for-the-badge&logo=kaggle&logoColor=20BEFF)
-![Voice Agents](https://img.shields.io/badge/-Voice%20Agentic%20Coding-1a1a2e?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-1a1a2e?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-1a1a2e?style=for-the-badge)
+![Voice Agent](https://img.shields.io/badge/-Voice--based%20Agent-1a1a2e?style=for-the-badge)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
 
-### 📈 GitHub Stats
+### <img width="22" height="22" src="https://api.iconify.design/lucide:activity.svg?color=%2336D1DC" valign="middle"/> GitHub Stats
 
 <div align="center">
 
@@ -81,7 +80,7 @@ A long-term flagship project: a Jarvis-inspired Agent with voice interaction, ag
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
 
-### 🐍 Contribution Snake
+### <img width="22" height="22" src="https://api.iconify.design/mdi:snake.svg?color=%2336D1DC" valign="middle"/> Contribution Snake
 
 <div align="center">
 
@@ -95,7 +94,7 @@ A long-term flagship project: a Jarvis-inspired Agent with voice interaction, ag
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
 
-### 🔗 Connect with me
+### <img width="22" height="22" src="https://api.iconify.design/lucide:link-2.svg?color=%2336D1DC" valign="middle"/> Connect with me
 
 <div align="center">
 
