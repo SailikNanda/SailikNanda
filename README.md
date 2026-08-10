@@ -29,7 +29,7 @@
 
 **ERA — Personal AI Agent**
 
-A long-term flagship project: a Jarvis-inspired Agent with voice interaction, agentic task execution (email, docs, PPT generation, object detection).
+A long-term flagship project: a Jarvis-inspired Agent with voice interaction, agentic task execution (email, docs, PPT generation, object detection and so on.).
 
 ![Status](https://img.shields.io/badge/status-active-36D1DC?style=for-the-badge)
 ![Type](https://img.shields.io/badge/type-AI%20Assistant-5B86E5?style=for-the-badge)
@@ -53,9 +53,9 @@ A long-term flagship project: a Jarvis-inspired Agent with voice interaction, ag
 
 <div align="center">
 
-![LLM Fine-tuning](https://img.shields.io/badge/-LLM%20Fine--tuning-1a1a2e?style=for-the-badge&logo=meta&logoColor=white)
-![QLoRA](https://img.shields.io/badge/-QLoRA%20%2F%20Unsloth-1a1a2e?style=for-the-badge)
-![Kaggle GPU](https://img.shields.io/badge/-Kaggle%20GPU-1a1a2e?style=for-the-badge&logo=kaggle&logoColor=20BEFF)
+![LLM Architecture](https://img.shields.io/badge/-LLM%20Fine--tuning-1a1a2e?style=for-the-badge&logo=meta&logoColor=white)
+![AIML](https://img.shields.io/badge/-QLoRA%20%2F%20Unsloth-1a1a2e?style=for-the-badge)
+![NLP](https://img.shields.io/badge/-Kaggle%20GPU-1a1a2e?style=for-the-badge&logo=kaggle&logoColor=20BEFF)
 ![Voice Agents](https://img.shields.io/badge/-Voice%20Agentic%20Coding-1a1a2e?style=for-the-badge)
 
 </div>
