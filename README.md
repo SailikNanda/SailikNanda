@@ -98,7 +98,7 @@ A long-term flagship project: a Jarvis-inspired AI Agent with voice interaction,
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=F09819)](https://instagram.com/sailik53)&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=F09819)](https://instagram.com/sailiknanda)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailiknanda)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=36D1DC)](mailto:sailiknanda53@gmail.com)
 
