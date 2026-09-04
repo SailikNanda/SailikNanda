@@ -17,7 +17,7 @@
 - <img width="16" height="16" src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2336D1DC" valign="middle"/> B.Tech student (MAKAUT) — IT coursework
 - <img width="16" height="16" src="https://api.iconify.design/lucide:bot.svg?color=%2336D1DC" valign="middle"/> Building **ERA** — a personal AI Agent
 - <img width="16" height="16" src="https://api.iconify.design/lucide:sprout.svg?color=%2336D1DC" valign="middle"/> Currently exploring: AI Models, AI Configuration
-- <img width="16" height="16" src="https://api.iconify.design/lucide:map-pin.svg?color=%2336D1DC" valign="middle"/> Based in West Bengal, Indi
+- <img width="16" height="16" src="https://api.iconify.design/lucide:map-pin.svg?color=%2336D1DC" valign="middle"/> Based in West Bengal, India
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
 
