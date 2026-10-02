@@ -108,4 +108,4 @@ A long-term flagship project — a Jarvis-inspired AI Agent with voice interacti
 <img src="https://komarev.com/ghpvc/?username=SailikNanda&label=Profile%20Views&color=36D1DC&style=flat" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,25:5B86E5,50:36D1DC,75:F09819,100:FF512F&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,25:5B86E5,50:36D1DC,75:F09819,100:FF512F&height=120&section=footer" alt="footer" />
