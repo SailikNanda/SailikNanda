@@ -76,6 +76,8 @@ A long-term flagship project — a Jarvis-inspired AI Agent with voice interacti
 <img src="https://github-readme-stats-rose-seven-63.vercel.app/api?username=SailikNanda&show_icons=true&hide_rank=true&title_color=F09819&icon_color=36D1DC&text_color=c9d6e8&bg_color=0A101F&border_color=22314d&hide_border=true" alt="GitHub stats" width="49%" />
 <img src="https://github-readme-stats-rose-seven-63.vercel.app/api/top-langs/?username=SailikNanda&layout=compact&title_color=F09819&text_color=c9d6e8&bg_color=0A101F&border_color=22314d&langs_count=8&hide_border=true" alt="Top languages" width="49%" />
 
+<img src="https://img.shields.io/github/followers/SailikNanda?label=Followers&style=for-the-badge&color=36D1DC&logo=github" alt="GitHub followers" />
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" />
