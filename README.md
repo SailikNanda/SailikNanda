@@ -61,7 +61,7 @@ A long-term flagship project — a **Jarvis-inspired** AI Agent with voice inter
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
 
-### <img width="22" height="22" src="https://api.iconify.design/lucide:activity.svg?color=%2336D1DC" valign="middle"/> GitHub Stats
+### <img width="22" height="22" src="https://api.iconify.design/lucide:activity.svg?color=%2336D1DC" valign="middle"/> GitHub Statistics
 
 <div align="center">
 
