@@ -12,6 +12,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
 
+<p align="center">
+  <em>B.Tech student · AI Agent builder · West Bengal, India</em>
+</p>
+
 ### <img width="22" height="22" src="https://api.iconify.design/lucide:brain.svg?color=%2336D1DC" valign="middle"/> About Me
 
 - <img width="16" height="16" src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2336D1DC" valign="middle"/> B.Tech student (MAKAUT) — IT coursework
