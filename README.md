@@ -92,6 +92,10 @@ A **long-term flagship** project — a **Jarvis-inspired** AI Agent with voice i
 
 <img src="https://img.shields.io/github/followers/SailikNanda?label=Followers&style=for-the-badge&color=36D1DC&logo=github" alt="GitHub followers" />
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SailikNanda&bg_color=0A101F&color=36D1DC&line=F09819&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
