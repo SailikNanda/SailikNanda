@@ -10,6 +10,10 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=36D1DC&center=true&vCenter=true&width=620&lines=B.Tech+Student;AI+Agent+Builder;Building+ERA+%E2%80%94+a+personal+AI+Agent" alt="Typing SVG" />
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
 
 <p align="center">
