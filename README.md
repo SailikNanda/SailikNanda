@@ -86,6 +86,10 @@ A **long-term flagship** project — a **Jarvis-inspired** AI Agent with voice i
 
 <br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=SailikNanda&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+
+<br/>
+
 <img src="https://img.shields.io/github/followers/SailikNanda?label=Followers&style=for-the-badge&color=36D1DC&logo=github" alt="GitHub followers" />
 
 </div>
