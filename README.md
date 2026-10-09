@@ -29,7 +29,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
 
-### <img width="22" height="22" src="https://api.iconify.design/lucide:rocket.svg?color=%2336D1DC" valign="middle"/> Featured Project
+### <img width="22" height="22" src="https://api.iconify.design/lucide:rocket.svg?color=%2336D1DC" valign="middle" alt="Rocket icon"/> Featured Project
 
 <table>
 <tr>
