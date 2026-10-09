@@ -129,7 +129,7 @@ A **long-term flagship** project — a **Jarvis-inspired** AI Agent with voice i
 <img src="https://komarev.com/ghpvc/?username=SailikNanda&label=Profile%20Views&color=36D1DC&style=flat" alt="Profile views" />
 </div>
 
-<p align="center"><sub>Thanks for visiting — feel free to explore my repositories.</sub></p>
+<p align="center"><sub>Thanks for visiting — feel free to browse my repositories.</sub></p>
 
 <br/>
 
