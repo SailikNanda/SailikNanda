@@ -57,4 +57,9 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
           git add assets/streak-dark.svg assets/streak-light.svg
           git commit -m "Update streak stats" || exit 0
-          git push
+          for i in 1 2 3 4 5; do
+            if git push; then exit 0; fi
+            git pull --rebase origin main
+          done
+          echo "push failed after retries"
+          exit 1
