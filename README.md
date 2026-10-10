@@ -90,7 +90,9 @@ A **long-term flagship** project — a **Jarvis-inspired** AI Agent with voice i
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/SailikNanda?label=Followers&style=for-the-badge&color=36D1DC&logo=github" alt="GitHub followers" />
+<img src="https://img.shields.io/github/followers/SailikNanda?label=Followers&style=for-the-badge&color=36D1DC&logo=github&logoColor=white" alt="GitHub followers" />
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=SailikNanda&label=Profile%20Views&color=36D1DC&style=for-the-badge" alt="Profile views" />
 
 <br/>
 
