@@ -23,7 +23,7 @@
 ### <img width="22" height="22" src="https://api.iconify.design/lucide:brain.svg?color=%2336D1DC" valign="middle" alt="Brain icon"/> About Me
 
 - <img width="16" height="16" src="https://api.iconify.design/lucide:graduation-cap.svg?color=%2336D1DC" valign="middle"/> B.Tech student (MAKAUT) — IT coursework
-- <img width="16" height="16" src="https://api.iconify.design/lucide:bot.svg?color=%2336D1DC" valign="middle"/> Building **ERA**, a **personal** AI Agent
+- <img width="16" height="16" src="https://api.iconify.design/lucide:bot.svg?color=%2336D1DC" valign="middle"/> Building **ERA** — a **personal** AI Agent
 - <img width="16" height="16" src="https://api.iconify.design/lucide:sprout.svg?color=%2336D1DC" valign="middle"/> Currently exploring: AI Models and AI Configuration
 - <img width="16" height="16" src="https://api.iconify.design/lucide:map-pin.svg?color=%2336D1DC" valign="middle"/> Based in **West Bengal, India**
 
