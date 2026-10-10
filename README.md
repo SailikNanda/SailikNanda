@@ -86,7 +86,7 @@ A **long-term flagship** project — a **Jarvis-inspired** AI Agent with voice i
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=SailikNanda&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+<img src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/trophy.svg" alt="GitHub trophies" />
 
 <br/>
 
@@ -94,7 +94,7 @@ A **long-term flagship** project — a **Jarvis-inspired** AI Agent with voice i
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SailikNanda&bg_color=0A101F&color=36D1DC&line=F09819&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
+<img src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/activity-graph.svg" alt="Contribution activity graph" width="100%" />
 
 </div>
 
@@ -123,10 +123,6 @@ A **long-term flagship** project — a **Jarvis-inspired** AI Agent with voice i
 [![Gmail](https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=36D1DC)](mailto:sailiknanda53@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=5B86E5)](https://github.com/SailikNanda)
 
-</div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SailikNanda&label=Profile%20Views&color=36D1DC&style=flat" alt="Profile views" />
 </div>
 
 <p align="center"><sub>Thanks for stopping by — feel free to explore my repositories.</sub></p>
