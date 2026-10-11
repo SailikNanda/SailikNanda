@@ -127,7 +127,7 @@ A **long-term flagship** project — a **Jarvis-inspired** AI Agent with voice i
 
 </div>
 
-<p align="center"><sub>Thanks for stopping by — feel free to explore my repositories.</sub></p>
+<p align="center"><sub>Thanks for stopping by — feel free to browse my repositories.</sub></p>
 
 <br/>
 
