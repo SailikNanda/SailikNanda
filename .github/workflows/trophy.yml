@@ -22,7 +22,7 @@ jobs:
         with:
           options: "username=SailikNanda&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
           path: assets/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Commit trophy card
         run: |
