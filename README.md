@@ -42,6 +42,7 @@ A **long-term flagship** project — a **Jarvis-inspired** AI Agent with voice-b
 ![Status](https://img.shields.io/badge/status-active-36D1DC?style=for-the-badge)
 ![Type](https://img.shields.io/badge/type-AI%20Agent-5B86E5?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/stack-Node.js%20%7C%20Electron%20%7C%20TypeScript%20%7C%20LLM%20%7C%20Voice-0F2027?style=for-the-badge)
+![Voice](https://img.shields.io/badge/voice--based-36D1DC?style=for-the-badge)
 
 </td>
 </tr>
