@@ -35,7 +35,7 @@
 <tr>
 <td width="100%">
 
-**ERA — Personal AI Agent**
+**ERA: Personal AI Agent**
 
 A **long-term flagship** project: a **Jarvis-inspired** AI Agent with voice-based interaction, agentic task execution, and a creative ecosystem of tools — email, docs, PPT generation, image generation, object detection, and much more!
 
