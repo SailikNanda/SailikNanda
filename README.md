@@ -97,7 +97,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent with **voice-ba
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/activity-graph.svg" alt="Contribution activity graph" width="100%" />
+<img src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/activity-graph.svg" alt="Contribution activity graph" width="100%" loading="lazy" />
 
 </div>
 
