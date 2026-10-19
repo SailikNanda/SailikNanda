@@ -92,7 +92,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent with **voice-ba
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/trophy.svg" alt="GitHub trophies" />
+<img src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/trophy.svg" alt="GitHub trophies" loading="lazy" decoding="async" />
 
 <br/>
 
