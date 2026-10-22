@@ -105,7 +105,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent featuring **voi
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/activity-graph.svg" alt="Contribution activity graph" width="100%" loading="lazy" />
+<img src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/activity-graph.svg" alt="Contribution activity graph" width="100%" loading="lazy" decoding="async" />
 
 </div>
 
