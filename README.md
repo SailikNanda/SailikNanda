@@ -118,7 +118,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent featuring **voi
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SailikNanda/SailikNanda/output/github-contribution-grid-snake-dark.svg?v=1" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SailikNanda/SailikNanda/output/github-contribution-grid-snake.svg?v=1" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/output/github-contribution-grid-snake.svg?v=1" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/output/github-contribution-grid-snake.svg?v=1" width="100%" loading="lazy" decoding="async" />
 </picture>
 
 </div>
