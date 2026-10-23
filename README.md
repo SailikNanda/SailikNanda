@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=36D1DC&center=true&vCenter=true&width=620&lines=B.Tech+Student;AI+Agent+Builder;Building+ERA+%E2%80%94+a+personal+AI+Agent" alt="Typing SVG" loading="lazy" decoding="async" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 
 <p align="center">
   <em><strong>B.Tech student</strong> · <strong>AI Agent Builder</strong> · <strong>West Bengal, India</strong></em>
@@ -33,7 +33,7 @@
 - <img width="16" height="16" src="https://api.iconify.design/lucide:sprout.svg?color=%2336D1DC" valign="middle"/> Currently exploring **AI models** and **AI configuration**
 - <img width="16" height="16" src="https://api.iconify.design/lucide:map-pin.svg?color=%2336D1DC" valign="middle"/> Based in **West Bengal, India**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 
 ### <img width="22" height="22" src="https://api.iconify.design/lucide:rocket.svg?color=%2336D1DC" valign="middle" alt="Rocket icon"/> Featured Project
 
@@ -54,7 +54,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent featuring **voi
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 
 ### <img width="22" height="22" src="https://api.iconify.design/lucide:cpu.svg?color=%2336D1DC" valign="middle" alt="CPU icon"/> Tech Stack
 
@@ -62,7 +62,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent featuring **voi
 <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,linux,vscode,html,js,react,nodejs,cloudflare,docker&theme=dark" alt="Tech stack icons" loading="lazy" decoding="async" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 
 ### <img width="22" height="22" src="https://api.iconify.design/lucide:flame.svg?color=%2336D1DC" valign="middle" alt="Flame icon"/> Currently Exploring
 
@@ -74,7 +74,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent featuring **voi
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 
 ### <img width="22" height="22" src="https://api.iconify.design/lucide:activity.svg?color=%2336D1DC" valign="middle" alt="Activity icon"/> **GitHub** Statistics
 
@@ -109,7 +109,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent featuring **voi
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 
 ### <img width="22" height="22" src="https://api.iconify.design/mdi:snake.svg?color=%2336D1DC" valign="middle" alt="Snake icon"/> Contribution Snake
 
@@ -123,7 +123,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent featuring **voi
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 
 ### <img width="22" height="22" src="https://api.iconify.design/lucide:link-2.svg?color=%2336D1DC" valign="middle" alt="Connect icon"/> Connect with Me
 
