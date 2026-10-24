@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Focus-AI%20Agents-36D1DC?style=for-the-badge&labelColor=0A101F" alt="Focus: AI Agents" loading="lazy" decoding="async" />
   <img src="https://img.shields.io/badge/Field-Information%20Technology-5B86E5?style=for-the-badge&labelColor=0A101F" alt="Field: Information Technology" loading="lazy" decoding="async" />
   <img src="https://img.shields.io/badge/Location-West%20Bengal%2C%20India-36D1DC?style=for-the-badge&labelColor=0A101F" alt="Location: West Bengal, India" loading="lazy" decoding="async" />
+  <img src="https://img.shields.io/badge/Student-B.Tech-5B86E5?style=for-the-badge&labelColor=0A101F" alt="Student: B.Tech" loading="lazy" decoding="async" />
 </p>
 
 ### <img width="22" height="22" src="https://api.iconify.design/lucide:brain.svg?color=%2336D1DC" valign="middle" alt="Brain icon"/> About Me
