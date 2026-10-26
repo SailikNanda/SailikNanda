@@ -37,7 +37,9 @@
 - <img width="16" height="16" src="https://api.iconify.design/lucide:sprout.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async"/> Currently exploring **AI models** and **AI configuration**
 - <img width="16" height="16" src="https://api.iconify.design/lucide:map-pin.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async"/> Based in **West Bengal, India**
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
+</div>
 
 ### <img width="22" height="22" src="https://api.iconify.design/lucide:rocket.svg?color=%2336D1DC" valign="middle" alt="Rocket icon"/> Featured Project
 
