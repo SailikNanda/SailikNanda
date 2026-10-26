@@ -60,7 +60,9 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent including **voi
 </tr>
 </table>
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
+</div>
 
 ### <img width="22" height="22" src="https://api.iconify.design/lucide:cpu.svg?color=%2336D1DC" valign="middle" alt="CPU icon"/> Tech Stack
 
