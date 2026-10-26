@@ -141,6 +141,25 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent including **voi
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 </div>
 
+### <img width="22" height="22" src="https://api.iconify.design/lucide:folder.svg?color=%2336D1DC" valign="middle" alt="Folder icon"/> Projects
+
+<table>
+<tr>
+<td width="100%">
+
+| Project | What it is |
+|---|---|
+| **[Finera](https://github.com/SailikNanda/finance-tracker)** | An **offline-first** Android finance tracker with **zero backend** |
+| **[Aurora VidGrab](https://github.com/SailikNanda/Aurora-Vidgrab)** | A **cross-platform** video and audio downloader covering **1750+ sites** |
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
+</div>
+
 ### <img width="22" height="22" src="https://api.iconify.design/lucide:link-2.svg?color=%2336D1DC" valign="middle" alt="Connect icon"/> Connect with Me
 
 <div align="center">
