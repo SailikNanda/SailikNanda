@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <em><strong>B.Tech student</strong> · <strong>AI Agent Builder</strong> · <strong>West Bengal, India</strong></em>
+  <em><strong>B.Tech Student</strong> · <strong>AI Agent Builder</strong> · <strong>West Bengal, India</strong></em>
 </p>
 
 <p align="center">
