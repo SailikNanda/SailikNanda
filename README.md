@@ -34,7 +34,7 @@
 
 - <img width="16" height="16" src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async"/> B.Tech Student (**MAKAUT**), **Information Technology** coursework
 - <img width="16" height="16" src="https://api.iconify.design/lucide/bot.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async"/> Building **ERA**, a **personal** AI agent
-- <img width="16" height="16" src="https://api.iconify.design/lucide/sprout.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async"/> Currently exploring **AI models** and **AI configuration**
+- <img width="16" height="16" src="https://api.iconify.design/lucide/sprout.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async"/> Currently exploring **AI models** as well as **AI configuration**
 - <img width="16" height="16" src="https://api.iconify.design/lucide/map-pin.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async"/> Located in **West Bengal, India**
 
 <div align="center">
