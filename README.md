@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-[About](#about-me) &nbsp;·&nbsp; [Featured Project](#featured-project) &nbsp;·&nbsp; [Tech Stack](#tech-stack) &nbsp;·&nbsp; [Statistics](#github-statistics) &nbsp;·&nbsp; [Snake](#contribution-snake) &nbsp;·&nbsp; [Projects](#projects) &nbsp;·&nbsp; [Connect](#connect-with-me)
+<a href="#about-me">About</a> &nbsp;·&nbsp; <a href="#featured-project">Featured Project</a> &nbsp;·&nbsp; <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp; <a href="#github-statistics">Statistics</a> &nbsp;·&nbsp; <a href="#contribution-snake">Snake</a> &nbsp;·&nbsp; <a href="#projects">Projects</a> &nbsp;·&nbsp; <a href="#connect-with-me">Connect</a>
 </p>
 
 <p align="center">
