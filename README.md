@@ -37,8 +37,8 @@
 ### <img width="22" height="22" src="https://api.iconify.design/lucide/brain.svg?color=%2336D1DC" valign="middle" alt="Brain icon"/> About Me
 
 - <img width="16" height="16" src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async"/> B.Tech Student (**MAKAUT**), **Information Technology** coursework
-- <img width="16" height="16" src="https://api.iconify.design/lucide/bot.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async"/> Building **ERA**, a **personal** AI Agent
-- <img width="16" height="16" src="https://api.iconify.design/lucide/sprout.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async"/> Currently exploring **AI models** and **AI configuration**
+- <img width="16" height="16" src="https://api.iconify.design/lucide/bot.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async"/> Building **ERA**, a **personal** AI agent
+- <img width="16" height="16" src="https://api.iconify.design/lucide/sprout.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async"/> Currently exploring **AI models** as well as **AI configuration**
 - <img width="16" height="16" src="https://api.iconify.design/lucide/map-pin.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async"/> Based in **West Bengal, India**
 
 <div align="center">
@@ -53,7 +53,7 @@
 
 **ERA: Personal AI Agent**
 
-A **long-term flagship** project: a **Jarvis-inspired** AI Agent including **voice-based interaction**, **agentic task execution**, and a **creative ecosystem** of tools — email, docs, PPT generation, image generation, object detection, and much more.
+A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes **voice-based interaction**, **agentic task execution**, and a **creative ecosystem** of tools — email, docs, PPT generation, image generation, object detection, and much more.
 
 ![Status](https://img.shields.io/badge/status-active-36D1DC?style=for-the-badge)
 ![Type](https://img.shields.io/badge/type-AI%20Agent-5B86E5?style=for-the-badge)
@@ -153,8 +153,8 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent including **voi
 
 | Project | What it is |
 |---|---|
-| **[Finera](https://github.com/SailikNanda/finance-tracker)** | An **offline-first** Android finance tracker with **zero backend** |
-| **[Aurora VidGrab](https://github.com/SailikNanda/Aurora-Vidgrab)** | A **cross-platform** video and audio downloader covering **1750+ sites** |
+| **[Finera](https://github.com/SailikNanda/finance-tracker)** | An **offline-first** Android finance tracker, with **zero backend** |
+| **[Aurora VidGrab](https://github.com/SailikNanda/Aurora-Vidgrab)** | A **cross-platform** video and audio downloader spanning **1750+ sites** |
 
 </td>
 </tr>
