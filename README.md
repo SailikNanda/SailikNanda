@@ -19,6 +19,10 @@
 </div>
 
 <p align="center">
+[About](#about-me) &nbsp;·&nbsp; [Featured Project](#featured-project) &nbsp;·&nbsp; [Tech Stack](#tech-stack) &nbsp;·&nbsp; [Statistics](#github-statistics) &nbsp;·&nbsp; [Snake](#contribution-snake) &nbsp;·&nbsp; [Projects](#projects) &nbsp;·&nbsp; [Connect](#connect-with-me)
+</p>
+
+<p align="center">
   <em><strong>B.Tech Student</strong> · <strong>AI Agent Builder</strong> · <strong>West Bengal, India</strong></em>
 </p>
 
