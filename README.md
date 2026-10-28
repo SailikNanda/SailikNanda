@@ -171,7 +171,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 
 </div>
 
-<p align="center"><sub><strong>Thanks for stopping by</strong> — please feel free to browse the repositories.</sub></p>
+<p align="center"><sub><strong>Thanks for stopping by</strong> — please feel free to explore the repositories.</sub></p>
 
 <br/>
 
