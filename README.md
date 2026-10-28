@@ -149,7 +149,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 
 | Project | What it is |
 |---|---|
-| **[Finera](https://github.com/SailikNanda/finance-tracker)** | An **offline-first** Android finance tracker, with **zero backend** |
+| **[Finera](https://github.com/SailikNanda/finance-tracker)** | An **offline-first** Android finance tracker with **zero backend** |
 | **[Aurora VidGrab](https://github.com/SailikNanda/Aurora-Vidgrab)** | A **cross-platform** video and audio downloader spanning **1750+ sites** |
 
 </td>
