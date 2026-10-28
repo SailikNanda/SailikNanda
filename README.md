@@ -175,7 +175,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent including **voi
 
 </div>
 
-<p align="center"><sub><strong>Thanks for stopping by</strong> — please feel free to explore the repositories.</sub></p>
+<p align="center"><sub><a href="https://github.com/SailikNanda?tab=repositories">Browse all repositories</a> &nbsp;·&nbsp; <strong>Thanks for stopping by</strong> — please feel free to explore the repositories.</sub></p>
 
 <br/>
 
