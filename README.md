@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/light.svg" />
-  <img alt="Sailik Nanda banner" src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/dark.svg" loading="lazy" decoding="async" />
+  <img alt="Sailik Nanda banner" src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/dark.svg" width="100%" loading="lazy" decoding="async" />
 </picture>
 
 </div>
