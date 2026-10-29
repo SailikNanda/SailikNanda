@@ -82,9 +82,9 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 
 <div align="center">
 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0A101F?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-0A101F?style=for-the-badge)
-![Voice Agent](https://img.shields.io/badge/-Voice--based%20Agent-0A101F?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-22314d?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-22314d?style=for-the-badge)
+![Voice Agent](https://img.shields.io/badge/-Voice--based%20Agent-22314d?style=for-the-badge)
 
 </div>
 
