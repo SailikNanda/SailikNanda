@@ -39,7 +39,7 @@
 - <img width="16" height="16" src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Graduation cap icon"/> B.Tech Student (**MAKAUT**), **Information Technology** coursework
 - <img width="16" height="16" src="https://api.iconify.design/lucide/bot.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Bot icon"/> Building **ERA**, a **personal** AI agent
 - <img width="16" height="16" src="https://api.iconify.design/lucide/sprout.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Sprout icon"/> Currently exploring **AI models** as well as **AI configuration**
-- <img width="16" height="16" src="https://api.iconify.design/lucide/map-pin.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async"/> Based in **West Bengal, India**
+- <img width="16" height="16" src="https://api.iconify.design/lucide/map-pin.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Map pin icon"/> Based in **West Bengal, India**
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
