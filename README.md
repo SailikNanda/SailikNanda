@@ -38,7 +38,7 @@
 
 - <img width="16" height="16" src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Graduation cap icon"/> B.Tech Student (**MAKAUT**), **Information Technology** coursework
 - <img width="16" height="16" src="https://api.iconify.design/lucide/bot.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Bot icon"/> Building **ERA**, a **personal** AI agent
-- <img width="16" height="16" src="https://api.iconify.design/lucide/sprout.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async"/> Currently exploring **AI models** as well as **AI configuration**
+- <img width="16" height="16" src="https://api.iconify.design/lucide/sprout.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Sprout icon"/> Currently exploring **AI models** as well as **AI configuration**
 - <img width="16" height="16" src="https://api.iconify.design/lucide/map-pin.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async"/> Based in **West Bengal, India**
 
 <div align="center">
