@@ -74,6 +74,8 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,linux,vscode,html,js,react,nodejs,cloudflare,docker&theme=dark" alt="Tech stack icons" loading="lazy" decoding="async" />
 </div>
 
+<p align="center"><sub><strong>Python</strong> &nbsp;·&nbsp; <strong>PyTorch</strong> &nbsp;·&nbsp; <strong>Git</strong> &nbsp;·&nbsp; <strong>GitHub</strong> &nbsp;·&nbsp; <strong>Linux</strong> &nbsp;·&nbsp; <strong>VS Code</strong> &nbsp;·&nbsp; <strong>HTML</strong> &nbsp;·&nbsp; <strong>JavaScript</strong> &nbsp;·&nbsp; <strong>React</strong> &nbsp;·&nbsp; <strong>Node.js</strong> &nbsp;·&nbsp; <strong>Cloudflare</strong> &nbsp;·&nbsp; <strong>Docker</strong></sub></p>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 </div>
