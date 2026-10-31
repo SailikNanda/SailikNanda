@@ -157,6 +157,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 |---|---|
 | **[Finera](https://github.com/SailikNanda/finance-tracker)** | An **offline-first** Android finance tracker, with **zero backend** |
 | **[Aurora VidGrab](https://github.com/SailikNanda/Aurora-Vidgrab)** | A **cross-platform** video and audio downloader spanning **1750+ sites** |
+| **[ERA System Prompts](https://github.com/SailikNanda/ERA-System-Prompts)** | **Mood-based** system prompts for the **ERA** AI agent |
 
 </td>
 </tr>
