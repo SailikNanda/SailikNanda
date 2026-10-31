@@ -55,10 +55,10 @@
 
 A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes **voice-based interaction**, **agentic task execution**, and a **creative ecosystem** of tools — email, docs, PPT generation, image generation, object detection, and much more.
 
-![Status](https://img.shields.io/badge/status-active-36D1DC?style=for-the-badge)
-![Type](https://img.shields.io/badge/type-AI%20Agent-5B86E5?style=for-the-badge)
-![Stack](https://img.shields.io/badge/stack-Node.js%20%7C%20Electron%20%7C%20TypeScript%20%7C%20LLM%20%7C%20Voice-22314d?style=for-the-badge)
-![Voice](https://img.shields.io/badge/voice--based-36D1DC?style=for-the-badge)
+<img src="https://img.shields.io/badge/status-active-36D1DC?style=for-the-badge" alt="Status: active" loading="lazy" decoding="async" />
+<img src="https://img.shields.io/badge/type-AI%20Agent-5B86E5?style=for-the-badge" alt="Type: AI Agent" loading="lazy" decoding="async" />
+<img src="https://img.shields.io/badge/stack-Node.js%20%7C%20Electron%20%7C%20TypeScript%20%7C%20LLM%20%7C%20Voice-22314d?style=for-the-badge" alt="Stack: Node.js, Electron, TypeScript, LLM, Voice" loading="lazy" decoding="async" />
+<img src="https://img.shields.io/badge/voice--based-36D1DC?style=for-the-badge" alt="Voice: voice-based" loading="lazy" decoding="async" />
 
 </td>
 </tr>
