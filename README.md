@@ -75,7 +75,10 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 ### <img width="22" height="22" src="https://api.iconify.design/lucide/cpu.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="CPU icon"/> Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,git,github,linux,vscode,html,js,react,nodejs,cloudflare,docker&theme=dark" alt="Tech stack icons" loading="lazy" decoding="async" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,git,github,linux,vscode,html,js,react,nodejs,cloudflare,docker&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,linux,vscode,html,js,react,nodejs,cloudflare,docker&theme=dark" alt="Tech stack icons" loading="lazy" decoding="async" />
+</picture>
 </div>
 
 <p align="center"><sub><strong>Python</strong> &nbsp;·&nbsp; <strong>PyTorch</strong> &nbsp;·&nbsp; <strong>Git</strong> &nbsp;·&nbsp; <strong>GitHub</strong> &nbsp;·&nbsp; <strong>Linux</strong> &nbsp;·&nbsp; <strong>VS Code</strong> &nbsp;·&nbsp; <strong>HTML</strong> &nbsp;·&nbsp; <strong>JavaScript</strong> &nbsp;·&nbsp; <strong>React</strong> &nbsp;·&nbsp; <strong>Node.js</strong> &nbsp;·&nbsp; <strong>Cloudflare</strong> &nbsp;·&nbsp; <strong>Docker</strong></sub></p>
