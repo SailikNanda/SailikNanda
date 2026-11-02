@@ -41,18 +41,18 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 </div>
 
-### <img width="22" height="22" src="https://api.iconify.design/lucide/brain.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Brain icon"/> About Me
+### <img width="22" height="22" src="https://api.iconify.design/lucide/brain.svg?color=%2336D1DC" style="vertical-align:middle" loading="lazy" decoding="async" alt="Brain icon"/> About Me
 
-- <img width="16" height="16" src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Graduation cap icon"/> B.Tech Student (**MAKAUT**), **Information Technology** coursework
-- <img width="16" height="16" src="https://api.iconify.design/lucide/bot.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Bot icon"/> Building **ERA**, a **personal** AI agent
-- <img width="16" height="16" src="https://api.iconify.design/lucide/sprout.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Sprout icon"/> Currently exploring **AI models** as well as **AI configuration**
-- <img width="16" height="16" src="https://api.iconify.design/lucide/map-pin.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Map pin icon"/> Based in **West Bengal, India**
+- <img width="16" height="16" src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2336D1DC" style="vertical-align:middle" loading="lazy" decoding="async" alt="Graduation cap icon"/> B.Tech Student (**MAKAUT**), **Information Technology** coursework
+- <img width="16" height="16" src="https://api.iconify.design/lucide/bot.svg?color=%2336D1DC" style="vertical-align:middle" loading="lazy" decoding="async" alt="Bot icon"/> Building **ERA**, a **personal** AI agent
+- <img width="16" height="16" src="https://api.iconify.design/lucide/sprout.svg?color=%2336D1DC" style="vertical-align:middle" loading="lazy" decoding="async" alt="Sprout icon"/> Currently exploring **AI models** as well as **AI configuration**
+- <img width="16" height="16" src="https://api.iconify.design/lucide/map-pin.svg?color=%2336D1DC" style="vertical-align:middle" loading="lazy" decoding="async" alt="Map pin icon"/> Based in **West Bengal, India**
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 </div>
 
-### <img width="22" height="22" src="https://api.iconify.design/lucide/rocket.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Rocket icon"/> Featured Project
+### <img width="22" height="22" src="https://api.iconify.design/lucide/rocket.svg?color=%2336D1DC" style="vertical-align:middle" loading="lazy" decoding="async" alt="Rocket icon"/> Featured Project
 
 <table>
 <tr>
@@ -75,7 +75,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 </div>
 
-### <img width="22" height="22" src="https://api.iconify.design/lucide/cpu.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="CPU icon"/> Tech Stack
+### <img width="22" height="22" src="https://api.iconify.design/lucide/cpu.svg?color=%2336D1DC" style="vertical-align:middle" loading="lazy" decoding="async" alt="CPU icon"/> Tech Stack
 
 <div align="center">
 <picture>
@@ -90,7 +90,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 </div>
 
-### <img width="22" height="22" src="https://api.iconify.design/lucide/flame.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Flame icon"/> What I&#39;m Exploring
+### <img width="22" height="22" src="https://api.iconify.design/lucide/flame.svg?color=%2336D1DC" style="vertical-align:middle" loading="lazy" decoding="async" alt="Flame icon"/> What I&#39;m Exploring
 
 <div align="center">
 
@@ -104,7 +104,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 </div>
 
-### <img width="22" height="22" src="https://api.iconify.design/lucide/activity.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Activity icon"/> **GitHub** Statistics
+### <img width="22" height="22" src="https://api.iconify.design/lucide/activity.svg?color=%2336D1DC" style="vertical-align:middle" loading="lazy" decoding="async" alt="Activity icon"/> **GitHub** Statistics
 
 <div align="center">
 
@@ -145,7 +145,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 </div>
 
-### <img width="22" height="22" src="https://api.iconify.design/mdi/snake.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Snake icon"/> Contribution Snake
+### <img width="22" height="22" src="https://api.iconify.design/mdi/snake.svg?color=%2336D1DC" style="vertical-align:middle" loading="lazy" decoding="async" alt="Snake icon"/> Contribution Snake
 
 <div align="center">
 
@@ -161,7 +161,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 </div>
 
-### <img width="22" height="22" src="https://api.iconify.design/lucide/folder.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Folder icon"/> Projects
+### <img width="22" height="22" src="https://api.iconify.design/lucide/folder.svg?color=%2336D1DC" style="vertical-align:middle" loading="lazy" decoding="async" alt="Folder icon"/> Projects
 
 <table>
 <tr>
@@ -181,7 +181,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 </div>
 
-### <img width="22" height="22" src="https://api.iconify.design/lucide/link-2.svg?color=%2336D1DC" valign="middle" loading="lazy" decoding="async" alt="Connect icon"/> Connect With Me
+### <img width="22" height="22" src="https://api.iconify.design/lucide/link-2.svg?color=%2336D1DC" style="vertical-align:middle" loading="lazy" decoding="async" alt="Connect icon"/> Connect With Me
 
 <div align="center">
 
