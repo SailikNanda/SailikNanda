@@ -121,7 +121,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/trophy.svg" alt="GitHub trophies" loading="lazy" decoding="async" />
+<img src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/trophy.svg" alt="GitHub trophies" width="100%" loading="lazy" decoding="async" />
 
 <br/>
 
