@@ -104,7 +104,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 </div>
 
-### <img width="22" height="22" src="https://api.iconify.design/lucide/activity.svg?color=%2336D1DC" align="absmiddle" style="vertical-align:middle" loading="lazy" decoding="async" alt="Activity icon"/> **GitHub** Statistics
+### <img width="22" height="22" src="https://api.iconify.design/lucide/activity.svg?color=%2336D1DC" align="absmiddle" style="vertical-align:middle" loading="lazy" decoding="async" alt="Activity icon"/> GitHub Statistics
 
 <div align="center">
 
@@ -167,13 +167,35 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 
 <table>
 <tr>
-<td width="100%">
+<td width="33%" valign="top">
 
-| Project | What it is |
-|---|---|
-| **[Finera](https://github.com/SailikNanda/finance-tracker)** | An **offline-first** Android finance tracker, with **zero backend** |
-| **[Aurora VidGrab](https://github.com/SailikNanda/Aurora-Vidgrab)** | A **cross-platform** video and audio downloader spanning **1750+ sites** |
-| **[ERA System Prompts](https://github.com/SailikNanda/ERA-System-Prompts)** | **Mood-based** system prompts for the **ERA** AI agent |
+#### [Finera](https://github.com/SailikNanda/finance-tracker)
+
+An **offline-first** Android finance tracker, with **zero backend** — all data stays on the device.
+
+<img src="https://img.shields.io/badge/Android-0A101F?style=flat-square&logo=android&logoColor=3DDC84" alt="Android" loading="lazy" decoding="async" />
+<img src="https://img.shields.io/badge/React-0A101F?style=flat-square&logo=react&logoColor=61DAFB" alt="React" loading="lazy" decoding="async" />
+<img src="https://img.shields.io/badge/Capacitor-0A101F?style=flat-square&logo=capacitor&logoColor=119EFF" alt="Capacitor" loading="lazy" decoding="async" />
+
+</td>
+<td width="33%" valign="top">
+
+#### [Aurora VidGrab](https://github.com/SailikNanda/Aurora-Vidgrab)
+
+A **cross-platform** video and audio downloader spanning **1750+ sites**.
+
+<img src="https://img.shields.io/badge/JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" loading="lazy" decoding="async" />
+<img src="https://img.shields.io/badge/Cross--platform-0A101F?style=flat-square&logoColor=36D1DC" alt="Cross-platform" loading="lazy" decoding="async" />
+
+</td>
+<td width="33%" valign="top">
+
+#### [ERA System Prompts](https://github.com/SailikNanda/ERA-System-Prompts)
+
+**Mood-based** system prompts for the **ERA** AI agent.
+
+<img src="https://img.shields.io/badge/System%20Prompts-0A101F?style=flat-square&logoColor=F09819" alt="System Prompts" loading="lazy" decoding="async" />
+<img src="https://img.shields.io/badge/ERA-0A101F?style=flat-square&logoColor=5B86E5" alt="ERA" loading="lazy" decoding="async" />
 
 </td>
 </tr>
@@ -190,7 +212,8 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 [![Instagram](https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=F09819)](https://instagram.com/sailiknanda)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailiknanda)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=36D1DC)](mailto:sailiknanda53@gmail.com)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=5B86E5)](https://github.com/SailikNanda)
+[![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=5B86E5)](https://github.com/SailikNanda)&nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/Website-0A101F?style=for-the-badge&logo=googlechrome&logoColor=F09819)](https://era-ai-os.vercel.app)
 
 </div>
 
