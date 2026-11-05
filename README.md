@@ -171,7 +171,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 
 #### [Finera](https://github.com/SailikNanda/finance-tracker)
 
-An **offline-first** Android finance tracker, with **zero backend** — all data stays on the device.
+An **offline-first** Android finance tracker, with **zero backend**.
 
 <img src="https://img.shields.io/badge/Android-0A101F?style=flat-square&logo=android&logoColor=3DDC84" alt="Android" loading="lazy" decoding="async" />
 <img src="https://img.shields.io/badge/React-0A101F?style=flat-square&logo=react&logoColor=61DAFB" alt="React" loading="lazy" decoding="async" />
