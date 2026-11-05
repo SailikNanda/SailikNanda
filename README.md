@@ -167,7 +167,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="100%">
 
 #### [Finera](https://github.com/SailikNanda/finance-tracker)
 
@@ -178,7 +178,12 @@ An **offline-first** Android finance tracker, with **zero backend**.
 <img src="https://img.shields.io/badge/Capacitor-0A101F?style=flat-square&logo=capacitor&logoColor=119EFF" alt="Capacitor" loading="lazy" decoding="async" />
 
 </td>
-<td width="33%" valign="top">
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
 
 #### [Aurora VidGrab](https://github.com/SailikNanda/Aurora-Vidgrab)
 
@@ -188,7 +193,12 @@ A **cross-platform** video and audio downloader spanning **1750+ sites**.
 <img src="https://img.shields.io/badge/Cross--platform-0A101F?style=flat-square&logoColor=36D1DC" alt="Cross-platform" loading="lazy" decoding="async" />
 
 </td>
-<td width="33%" valign="top">
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
 
 #### [ERA System Prompts](https://github.com/SailikNanda/ERA-System-Prompts)
 
