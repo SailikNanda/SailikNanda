@@ -160,6 +160,8 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 <img src="https://hits.sh/github.com/SailikNanda.svg?label=Profile%20Views&color=36D1DC&labelColor=0A101F&style=for-the-badge" alt="Profile views" loading="lazy" decoding="async" />
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/commit-activity/y/SailikNanda/SailikNanda?style=for-the-badge&color=36D1DC&labelColor=0A101F&logo=github&label=Commits%20per%20Year" alt="Commit activity" loading="lazy" decoding="async" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/last-commit/SailikNanda/SailikNanda?style=for-the-badge&color=36D1DC&labelColor=0A101F&logo=github&label=Last%20Commit" alt="Last commit to this profile repository" loading="lazy" decoding="async" />
 
 <br/>
 
