@@ -13,7 +13,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=36D1DC&center=true&vCenter=true&width=620&lines=B.Tech+Student;AI+Agent+Builder;Building+ERA+%E2%80%94+a+personal+AI+Agent" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=0E7490&center=true&vCenter=true&width=620&lines=B.Tech+Student;AI+Agent+Builder;Building+ERA+%E2%80%94+a+personal+AI+Agent" alt="Animated headline: B.Tech Student, AI Agent Builder, Building ERA — a personal AI Agent" loading="lazy" decoding="async" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=0E7490&center=true&vCenter=true&width=620&lines=B.Tech+Student;AI+Agent+Builder;Building+ERA+%E2%80%94+a+personal+AI+Agent" alt="Animated headline: B.Tech Student, AI Agent Builder, Building ERA — a personal AI Agent" width="620" loading="eager" fetchpriority="high" decoding="async" />
   </picture>
 </div>
 
