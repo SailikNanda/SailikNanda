@@ -37,6 +37,33 @@
   <img src="https://img.shields.io/badge/Student-B.Tech-5B86E5?style=for-the-badge&labelColor=0A101F" alt="Student: B.Tech" loading="lazy" decoding="async" />
 </p>
 
+<table>
+<tr>
+<td width="50%">
+
+**Education** · B.Tech, **MAKAUT** — Information Technology
+
+</td>
+<td width="50%">
+
+**Building** · **ERA**, a personal AI agent
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Focus** · AI agents and voice-based interaction
+
+</td>
+<td width="50%">
+
+**Based in** · West Bengal, India
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="divider" loading="lazy" decoding="async" />
 </div>
