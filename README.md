@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" loading="lazy" decoding="async" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" width="800" height="3" aria-hidden="true" loading="lazy" decoding="async" />
 </div>
 
 <p align="center">
@@ -65,7 +65,7 @@
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" loading="lazy" decoding="async" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" width="800" height="3" aria-hidden="true" loading="lazy" decoding="async" />
 </div>
 
 ### <img width="22" height="22" src="https://api.iconify.design/lucide/brain.svg?color=%2336D1DC" align="absmiddle" style="vertical-align:middle" loading="lazy" decoding="async" alt="Brain icon"/> About Me
@@ -77,7 +77,7 @@
 - <img width="16" height="16" src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2336D1DC" align="absmiddle" style="vertical-align:middle" loading="lazy" decoding="async" alt="Folder with git icon"/> Maintaining three public projects: **[Finera](https://github.com/SailikNanda/finance-tracker)**, **[Aurora VidGrab](https://github.com/SailikNanda/Aurora-Vidgrab)** and **[ERA System Prompts](https://github.com/SailikNanda/ERA-System-Prompts)**
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" loading="lazy" decoding="async" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" width="800" height="3" aria-hidden="true" loading="lazy" decoding="async" />
 </div>
 
 ### <img width="22" height="22" src="https://api.iconify.design/lucide/rocket.svg?color=%2336D1DC" align="absmiddle" style="vertical-align:middle" loading="lazy" decoding="async" alt="Rocket icon"/> Featured Project
@@ -100,7 +100,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" loading="lazy" decoding="async" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" width="800" height="3" aria-hidden="true" loading="lazy" decoding="async" />
 </div>
 
 ### <img width="22" height="22" src="https://api.iconify.design/lucide/cpu.svg?color=%2336D1DC" align="absmiddle" style="vertical-align:middle" loading="lazy" decoding="async" alt="CPU icon"/> Tech Stack
@@ -115,7 +115,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 <p align="center"><sub><strong>Python</strong> &nbsp;·&nbsp; <strong>PyTorch</strong> &nbsp;·&nbsp; <strong>Git</strong> &nbsp;·&nbsp; <strong>GitHub</strong> &nbsp;·&nbsp; <strong>Linux</strong> &nbsp;·&nbsp; <strong>VS Code</strong> &nbsp;·&nbsp; <strong>HTML</strong> &nbsp;·&nbsp; <strong>JavaScript</strong> &nbsp;·&nbsp; <strong>React</strong> &nbsp;·&nbsp; <strong>Node.js</strong> &nbsp;·&nbsp; <strong>Cloudflare</strong> &nbsp;·&nbsp; <strong>Docker</strong></sub></p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" loading="lazy" decoding="async" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" width="800" height="3" aria-hidden="true" loading="lazy" decoding="async" />
 </div>
 
 ### <img width="22" height="22" src="https://api.iconify.design/lucide/flame.svg?color=%2336D1DC" align="absmiddle" style="vertical-align:middle" loading="lazy" decoding="async" alt="Flame icon"/> What I'm Exploring
@@ -129,7 +129,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" loading="lazy" decoding="async" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" width="800" height="3" aria-hidden="true" loading="lazy" decoding="async" />
 </div>
 
 ### <img width="22" height="22" src="https://api.iconify.design/lucide/activity.svg?color=%2336D1DC" align="absmiddle" style="vertical-align:middle" loading="lazy" decoding="async" alt="Activity icon"/> GitHub Statistics
@@ -174,7 +174,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" loading="lazy" decoding="async" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" width="800" height="3" aria-hidden="true" loading="lazy" decoding="async" />
 </div>
 
 ### <img width="22" height="22" src="https://api.iconify.design/mdi/snake.svg?color=%2336D1DC" align="absmiddle" style="vertical-align:middle" loading="lazy" decoding="async" alt="Snake icon"/> Contribution Snake
@@ -190,7 +190,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" loading="lazy" decoding="async" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" width="800" height="3" aria-hidden="true" loading="lazy" decoding="async" />
 </div>
 
 ### <img width="22" height="22" src="https://api.iconify.design/lucide/folder.svg?color=%2336D1DC" align="absmiddle" style="vertical-align:middle" loading="lazy" decoding="async" alt="Folder icon"/> Projects
@@ -242,7 +242,7 @@ A **cross-platform** video and audio downloader spanning **1750+ sites**.
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" loading="lazy" decoding="async" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" width="800" height="3" aria-hidden="true" loading="lazy" decoding="async" />
 </div>
 
 ### <img width="22" height="22" src="https://api.iconify.design/lucide/link-2.svg?color=%2336D1DC" align="absmiddle" style="vertical-align:middle" loading="lazy" decoding="async" alt="Connect icon"/> Connect With Me
