@@ -147,6 +147,8 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 <img src="https://github-readme-stats-rose-seven-63.vercel.app/api?username=SailikNanda&show_icons=true&hide_rank=true&custom_title=GitHub%20Stats&title_color=F09819&icon_color=36D1DC&text_color=e6eef9&bg_color=0A101F&border_color=22314d&hide_border=true" alt="GitHub stats" width="49%" style="vertical-align:top" loading="lazy" decoding="async" />
 <img src="https://github-readme-stats-rose-seven-63.vercel.app/api/top-langs/?username=SailikNanda&layout=compact&title_color=F09819&text_color=e6eef9&bg_color=0A101F&border_color=22314d&langs_count=8&hide_border=true&card_width=495" alt="Top languages" width="49%" style="vertical-align:top" loading="lazy" decoding="async" />
 
+<p><sub>Left: overall GitHub statistics. Right: most-used languages.</sub></p>
+
 <br/>
 
 <img src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/trophy.svg" alt="GitHub trophies" width="100%" loading="lazy" decoding="async" />
