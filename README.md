@@ -37,6 +37,8 @@
   <img src="https://img.shields.io/badge/Student-B.Tech-5B86E5?style=for-the-badge&labelColor=0A101F" alt="Student: B.Tech" loading="lazy" decoding="async" />
 </p>
 
+<p align="center"><sub>Profile at a glance</sub></p>
+
 <table>
 <tr>
 <td width="50%">
