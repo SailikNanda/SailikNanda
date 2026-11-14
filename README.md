@@ -215,9 +215,9 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 
 An **offline-first** Android finance tracker, with **zero backend**.
 
-<img src="https://img.shields.io/badge/Android-0A101F?style=flat-square&logo=android&logoColor=3DDC84" alt="Android" loading="lazy" decoding="async" />
-<img src="https://img.shields.io/badge/React-0A101F?style=flat-square&logo=react&logoColor=61DAFB" alt="React" loading="lazy" decoding="async" />
-<img src="https://img.shields.io/badge/Capacitor-0A101F?style=flat-square&logo=capacitor&logoColor=119EFF" alt="Capacitor" loading="lazy" decoding="async" />
+<img src="https://img.shields.io/badge/Android-0A101F?style=flat-square&logo=android&logoColor=3DDC84" alt="Android" loading="lazy" decoding="async" height="20" />
+<img src="https://img.shields.io/badge/React-0A101F?style=flat-square&logo=react&logoColor=61DAFB" alt="React" loading="lazy" decoding="async" height="20" />
+<img src="https://img.shields.io/badge/Capacitor-0A101F?style=flat-square&logo=capacitor&logoColor=119EFF" alt="Capacitor" loading="lazy" decoding="async" height="20" />
 
 </td>
 </tr>
@@ -231,8 +231,8 @@ An **offline-first** Android finance tracker, with **zero backend**.
 
 A **cross-platform** video and audio downloader spanning **1750+ sites**.
 
-<img src="https://img.shields.io/badge/JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" loading="lazy" decoding="async" />
-<img src="https://img.shields.io/badge/Cross--platform-0A101F?style=flat-square&logoColor=36D1DC" alt="Cross-platform" loading="lazy" decoding="async" />
+<img src="https://img.shields.io/badge/JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" loading="lazy" decoding="async" height="20" />
+<img src="https://img.shields.io/badge/Cross--platform-0A101F?style=flat-square&logoColor=36D1DC" alt="Cross-platform" loading="lazy" decoding="async" height="20" />
 
 </td>
 </tr>
@@ -246,8 +246,8 @@ A **cross-platform** video and audio downloader spanning **1750+ sites**.
 
 **Mood-based** system prompts for the **ERA** AI agent.
 
-<img src="https://img.shields.io/badge/System%20Prompts-0A101F?style=flat-square&logoColor=F09819" alt="System Prompts" loading="lazy" decoding="async" />
-<img src="https://img.shields.io/badge/ERA-0A101F?style=flat-square&logoColor=5B86E5" alt="ERA" loading="lazy" decoding="async" />
+<img src="https://img.shields.io/badge/System%20Prompts-0A101F?style=flat-square&logoColor=F09819" alt="System Prompts" loading="lazy" decoding="async" height="20" />
+<img src="https://img.shields.io/badge/ERA-0A101F?style=flat-square&logoColor=5B86E5" alt="ERA" loading="lazy" decoding="async" height="20" />
 
 </td>
 </tr>
