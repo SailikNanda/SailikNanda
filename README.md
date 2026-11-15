@@ -244,7 +244,7 @@ A **cross-platform** video and audio downloader spanning **1750+ sites**.
 
 #### [ERA System Prompts](https://github.com/SailikNanda/ERA-System-Prompts)
 
-**Mood-based** system prompts for the **ERA** AI agent.
+**Mood-based** system prompts for the **ERA** AI agent, with **20** preset moods.
 
 <img src="https://img.shields.io/badge/System%20Prompts-0A101F?style=flat-square&logoColor=F09819" alt="System Prompts" loading="lazy" decoding="async" height="20" />
 <img src="https://img.shields.io/badge/ERA-0A101F?style=flat-square&logoColor=5B86E5" alt="ERA" loading="lazy" decoding="async" height="20" />
