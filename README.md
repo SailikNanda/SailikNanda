@@ -21,7 +21,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF512F,25:F09819,50:36D1DC,75:5B86E5,100:FF00FF&height=3&width=800" alt="" width="800" height="3" style="max-width:100%" aria-hidden="true" loading="lazy" decoding="async" />
 </div>
 
-<p align="center">
+<p align="center" role="navigation" aria-label="Sections">
 <a href="#-about-me">About</a> &nbsp;·&nbsp; <a href="#-featured-project">Featured Project</a> &nbsp;·&nbsp; <a href="#-tech-stack">Tech Stack</a> &nbsp;·&nbsp; <a href="#-what-im-exploring">Exploring</a> &nbsp;·&nbsp; <a href="#-github-statistics">Statistics</a> &nbsp;·&nbsp; <a href="#-contribution-snake">Snake</a> &nbsp;·&nbsp; <a href="#-projects">Projects</a> &nbsp;·&nbsp; <a href="#-connect-with-me">Connect</a>
 </p>
 
