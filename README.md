@@ -95,7 +95,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 <img src="https://img.shields.io/badge/status-active-0E7490?style=for-the-badge" alt="Status: active" loading="lazy" decoding="async" />
 <img src="https://img.shields.io/badge/type-AI%20Agent-5B86E5?style=for-the-badge" alt="Type: AI Agent" loading="lazy" decoding="async" />
 <img src="https://img.shields.io/badge/stack-Node.js%20%7C%20Electron%20%7C%20TypeScript%20%7C%20LLM%20%7C%20Voice-22314d?style=for-the-badge" alt="Stack: Node.js, Electron, TypeScript, LLM, Voice" loading="lazy" decoding="async" />
-<img src="https://img.shields.io/badge/voice--based-0E7490?style=for-the-badge" alt="Voice: voice-based" loading="lazy" decoding="async" />
+<img src="https://img.shields.io/badge/voice--based-0E7490?style=for-the-badge" alt="Voice-based interaction" loading="lazy" decoding="async" />
 
 </td>
 </tr>
