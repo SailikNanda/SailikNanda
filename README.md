@@ -141,7 +141,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/streak-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/streak-light.svg" />
-  <img alt="GitHub streak stats" src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/streak-dark.svg" width="100%" loading="lazy" decoding="async" />
+  <img alt="GitHub streak stats: current streak, longest streak and total contributions" src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/main/assets/streak-dark.svg" width="100%" loading="lazy" decoding="async" />
 </picture>
 
 <br/>
