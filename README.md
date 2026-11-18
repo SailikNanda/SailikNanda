@@ -110,7 +110,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,git,github,linux,vscode,html,js,react,nodejs,cloudflare,docker&theme=light" />
-  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,linux,vscode,html,js,react,nodejs,cloudflare,docker&theme=dark" alt="Tech stack icons" loading="lazy" decoding="async" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,linux,vscode,html,js,react,nodejs,cloudflare,docker&theme=dark" alt="Icons for Python, PyTorch, Git, GitHub, Linux, VS Code, HTML, JavaScript, React, Node.js, Cloudflare and Docker" loading="lazy" decoding="async" />
 </picture>
 </div>
 
