@@ -194,7 +194,7 @@ A **long-term flagship** project: a **Jarvis-inspired** AI Agent that includes *
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SailikNanda/SailikNanda/output/github-contribution-grid-snake-dark.svg?v=1" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SailikNanda/SailikNanda/output/github-contribution-grid-snake.svg?v=1" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/output/github-contribution-grid-snake.svg?v=1" width="100%" loading="lazy" decoding="async" />
+  <img alt="Contribution snake animation eating each day's contribution squares in date order" src="https://raw.githubusercontent.com/SailikNanda/SailikNanda/output/github-contribution-grid-snake.svg?v=1" width="100%" loading="lazy" decoding="async" />
 </picture>
 
 <p><sub>Each square is one day of contribution activity, shaded by how much was committed; the snake eats them in date order.</sub></p>
